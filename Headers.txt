@@ -1,0 +1,9 @@
+from gtts import gTTS
+from PyDictionary import PyDictionary
+from datetime import datetime
+import requests
+from googlesearch import search
+from bs4 import BeautifulSoup
+import subprocess
+import random
+import os
