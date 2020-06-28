@@ -1,0 +1,9 @@
+pip3 install gTTS
+pip3 install PyDictionary
+pip3 install datetime
+pip3 install requests
+pip3 install google
+pip3 install BeautifulSoup
+pip3 install subprocess
+import random
+import os
